@@ -9,7 +9,7 @@
 
 - 📫 How to reach me <a href="mailto:sameersalam730@gmail.com">sameersalam730@gmail.com</a>
 
-- 📄 Check out my resume [Resume](https://drive.google.com/file/d/1tgmbbcmaPKlGG7JOdahpWSpK6aeMSCnp/view?usp=drive_link)
+- 📄 Check out my [Resume](https://drive.google.com/file/d/1tgmbbcmaPKlGG7JOdahpWSpK6aeMSCnp/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
