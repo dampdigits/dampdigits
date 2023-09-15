@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/sksameersalam" target="blank"><img src="https://img.shields.io/twitter/follow/sksameersalam?logo=twitter&style=for-the-badge" alt="sksameersalam" /></a> </p>
 
-- 📫 How to reach me **sameersalam730@gmail.com**
+- 📫 How to reach me <a href="mailto:sameersalam730@gmail.com">sameersalam730@gmail.com</a>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1tgmbbcmaPKlGG7JOdahpWSpK6aeMSCnp/view?usp=drive_link](https://drive.google.com/file/d/1tgmbbcmaPKlGG7JOdahpWSpK6aeMSCnp/view?usp=drive_link)
+- 📄 Check out my resume [Resume](https://drive.google.com/file/d/1tgmbbcmaPKlGG7JOdahpWSpK6aeMSCnp/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
