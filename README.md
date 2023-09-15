@@ -1,9 +1,9 @@
 <h1 align="center">Hello World! I'm Sameer</h1>
 <h3 align="center">A passionate software programmer, part-time tutor, artist and a lot of other stuff 😎</h3>
+<img align="right" width="300" src="frustated-coder.gif" alt="coding">
+<img align="right" width="300" src="spiral-hole.gif" alt="coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sksameersalam&label=Profile%20views&color=0e75b6&style=flat" alt="sksameersalam" /> </p>
-
-
 
 <p align="left"> <a href="https://twitter.com/sksameersalam" target="blank"><img src="https://img.shields.io/twitter/follow/sksameersalam?logo=twitter&style=for-the-badge" alt="sksameersalam" /></a> </p>
 
