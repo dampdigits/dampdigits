@@ -1,7 +1,5 @@
-<h1 align="center">Hello World! I'm Sameer</h1>
-<h3 align="center">A passionate software programmer, part-time tutor, artist and a lot of other stuff 😎</h3>
-<img align="right" width="300" src="frustated-coder.gif" alt="coding">
-<img align="right" width="300" src="spiral-hole.gif" alt="coding">
+
+https://github.com/sksameersalam/sksameersalam/assets/113439449/4c03b742-2bc6-49f6-a96f-2452e5a3394d
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sksameersalam&label=Profile%20views&color=0e75b6&style=flat" alt="sksameersalam" /> </p>
 
