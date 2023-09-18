@@ -1,4 +1,5 @@
 <img src="banner.gif" alt="banner">
+<hr>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sksameersalam&label=Profile%20views&color=0e75b6&style=flat" alt="sksameersalam" /> </p>
 
