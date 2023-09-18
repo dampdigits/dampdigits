@@ -1,7 +1,4 @@
-<video width="1500" height="500" controls autoplay loop>
-  <source src="[your-video-file.mp4](https://github.com/sksameersalam/sksameersalam/assets/113439449/4c03b742-2bc6-49f6-a96f-2452e5a3394d)" type="video/mp4">
-</video>
-<!-- https://github.com/sksameersalam/sksameersalam/assets/113439449/4c03b742-2bc6-49f6-a96f-2452e5a3394d -->
+<img src="@sksameersalam.gif" alt="banner">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sksameersalam&label=Profile%20views&color=0e75b6&style=flat" alt="sksameersalam" /> </p>
 
