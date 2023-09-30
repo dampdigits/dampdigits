@@ -1,13 +1,13 @@
 <img src="banner.gif" alt="banner">
 <hr>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sksameersalam&label=Profile%20views&color=0e75b6&style=flat" alt="dampdigits" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dampdigits&label=Profile%20views&color=0e75b6&style=flat" alt="dampdigits" /> </p>
 
 <p align="left"> <a href="https://twitter.com/dampdigits" target="blank"><img src="https://img.shields.io/twitter/follow/dampdigits?logo=twitter&style=for-the-badge" alt="dampdigits" /></a> </p>
 
 - 📫 How to reach me <a href="mailto:sameersalam730@gmail.com">sameersalam730@gmail.com</a>
 
-- 📄 Check out my [Resume](https://drive.google.com/file/d/1tgmbbcmaPKlGG7JOdahpWSpK6aeMSCnp/view?usp=drive_link)
+- 📄 Check out my [Resume](https://drive.google.com/file/d/18-eDZDkWU2K5MACsNIjCSkjKmOG6o4Ca/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
