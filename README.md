@@ -1,4 +1,4 @@
-![sameer1](https://github.com/dampdigits/dampdigits/assets/113439449/94421021-e680-48bf-9108-79865fbba890)
+![sameer1](https://github.com/dampdigits/dampdigits/assets/113439449/86c897a2-a7dc-425a-8d0b-bd43b8124537)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sksameersalam&label=Profile%20views&color=0e75b6&style=flat" alt="dampdigits" /> </p>
 
