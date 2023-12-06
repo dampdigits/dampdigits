@@ -1,9 +1,6 @@
 ![sameer1](https://github.com/dampdigits/dampdigits/assets/113439449/a6bb65c4-69de-483d-96cf-d416c48bf771)
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sksameersalam&label=Profile%20views&color=0e75b6&style=flat" alt="dampdigits" /> </p>
-
-<p align="left"> <a href="https://twitter.com/dampdigits" target="blank"><img src="https://img.shields.io/twitter/follow/dampdigits?logo=twitter&style=for-the-badge" alt="dampdigits" /></a> </p>
 
 - 📄 Check out my [Resume](https://drive.google.com/file/d/18-eDZDkWU2K5MACsNIjCSkjKmOG6o4Ca/view?usp=drive_link)
 
