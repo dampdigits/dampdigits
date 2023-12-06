@@ -1,5 +1,5 @@
-<img src="banner.gif" alt="banner">
-<hr>
+![sameer1](https://github.com/dampdigits/dampdigits/assets/113439449/a6bb65c4-69de-483d-96cf-d416c48bf771)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sksameersalam&label=Profile%20views&color=0e75b6&style=flat" alt="dampdigits" /> </p>
 
