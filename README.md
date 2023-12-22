@@ -2,7 +2,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sksameersalam&label=Profile%20views&color=0e75b6&style=flat" alt="dampdigits" /> </p> -->
 
-<h1 align="left">$<font color="#31DD18">$</font> whoami</h1>
+<h1 align="left"><font color="#31DD18">$</font> whoami</h1>
 <p>Hello! Namaste! and As-salaamu alaykum! 👋
 <br>I'm <b>Sameer</b>, a passionate software developer who believes that code is not just lines but a form of art. With a background in Computer Science and a love for design, I'm on a journey to blend the worlds of programming and art to create beautiful, functional masterpieces.</p>
 
