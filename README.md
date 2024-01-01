@@ -20,7 +20,7 @@
 
 ## Philosophy 🌌
 
-I firmly believe that programming, teaching, and designing are all forms of art. Whether I'm crafting elegant code or bringing a design to life, I do it with the passion to create something beautiful.
+I firmly believe that everything is a form of art. Whether I'm crafting elegant code or bringing a design to life, I do it with the passion to create something beautiful.
 
 <!-- Check out my [Resume](https://drive.google.com/file/d/18-eDZDkWU2K5MACsNIjCSkjKmOG6o4Ca/view?usp=drive_link) -->
 
