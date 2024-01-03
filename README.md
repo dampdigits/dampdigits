@@ -3,8 +3,8 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sksameersalam&label=Profile%20views&color=0e75b6&style=flat" alt="dampdigits" /> </p> -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="banner/dampdigitsDarkbg.png">
-  <source media="(prefers-color-scheme: light)" srcset="banner/dampdigitsWhitebg.png">
+  <source media="(prefers-color-scheme: dark)" srcset="banners/dampdigitsDarkbg.jpg">
+  <source media="(prefers-color-scheme: light)" srcset="banners/dampdigitsWhitebg.jpg">
   <img alt="banner" src="banner/dampdigitsDarkbg.png">
 </picture>
 
