@@ -63,4 +63,3 @@
     </picture>
   </p>
 </div>
-<br>
