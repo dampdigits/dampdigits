@@ -1,6 +1,6 @@
 <!-- Activity Graph -->
 <!-- Dark Mode -->
-[![Sameer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dampdigits&theme=redical#gh-dark-mode-only)](https://github.com/ashutosh00710/github-readme-activity-graph#gh-dark-mode-only)
+[![Sameer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dampdigits&theme=redical&hide_border=true#gh-dark-mode-only)](https://github.com/ashutosh00710/github-readme-activity-graph#gh-dark-mode-only)
 <!-- Light Mode -->
 [![Sameer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dampdigits&theme=github-light#gh-light-mode-only)](https://github.com/ashutosh00710/github-readme-activity-graph#gh-light-mode-only)
 <!-- Github Stats -->
