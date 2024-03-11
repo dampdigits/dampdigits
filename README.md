@@ -97,7 +97,7 @@ I firmly believe that everything is a form of art. Whether I'm crafting elegant 
 </a>
 <!-- Light Mode -->
 <a href="https://gist.github.com/dampdigits/a1fbcf15c46dbe639f69930038ca43d3#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/gist?id=a1fbcf15c46dbe639f69930038ca43d3&theme=shadow_green&hide_border=true#gh-light-mode-only" />
+  <img src="https://github-readme-stats.vercel.app/api/gist?id=a1fbcf15c46dbe639f69930038ca43d3&theme=shadow_green#gh-light-mode-only" />
 </a>
 <!-- Gist-2 -->
 <!-- Dark Mode -->
