@@ -38,29 +38,30 @@ I firmly believe that everything is a form of art. Whether I'm crafting elegant 
 <a href="https://instagram.com/dampdigits" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dampdigits" height="30" width="40" /></a>
 </p> -->
 
-## Tech Tools 🛠️
+## Dev Tools 🛠️
 
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="icons/Bash_Logo_Colored.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="icons/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="icons/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="icons/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/"> <picture> <source media="(prefers-color-scheme: dark)" width="40" height="40" srcset="icons/flask-removebg-preview.svg"> <source media="(prefers-color-scheme: light)" width="40" height="40" srcset="icons/flsk-removebg-preview.svg"> <img alt="flask" width="40" height="40" src="icons/flask-removebg-preview.svg"></picture> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
 <!-- Github Stats -->
 ## Github stats 📊📈
 <!-- Dark Mode -->
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<a href="https://github.com/dampdigits#gh-dark-mode-only">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dampdigits&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,issues,contribs&rank_icon=github&show_icons=true&hide=reviews,discussions_answered,prs,prs_merged&theme=radical&hide_border=true#gh-dark-mode-only" />
 </a>
 <!-- Light Mode -->
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+<a href="https://github.com/dampdigits#gh-light-mode-only">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dampdigits&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,issues,contribs&rank_icon=github&show_icons=true&hide=reviews,discussions_answered,prs,prs_merged&theme=shadow_green#gh-light-mode-only" />
 </a>
 <!-- Most used languages -->
 <!-- Dark Mode -->
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<a href="https://github.com/dampdigits#gh-dark-mode-only">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dampdigits&layout=compact&langs_count=20&size_weight=0.4&theme=radical&hide_border=true&card_width=404#gh-dark-mode-only" />
 </a>
 <!-- Light Mode -->
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+<a href="https://github.com/dampdigits#gh-light-mode-only">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dampdigits&layout=compact&langs_count=20&size_weight=0.4&theme=shadow_green&card_width=404#gh-light-mode-only" />
 </a>
+
 <!-- Github streak -->
 <picture>
   <!-- Dark Mode -->
@@ -75,41 +76,35 @@ I firmly believe that everything is a form of art. Whether I'm crafting elegant 
   />
   <img alt="GitHub Streak" src="https://github.com/dampdigits" />
 </picture>
-<!--Gists-->
-<picture> <!-- Gist-1 -->
-  <!-- Dark Mode -->
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/gist?id=a1fbcf15c46dbe639f69930038ca43d3&theme=radical&hide_border=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <!-- Light Mode -->
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/gist?id=a1fbcf15c46dbe639f69930038ca43d3&theme=shadow_green"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img alt="Gist on solarized theme" src="https://gist.github.com/dampdigits/a1fbcf15c46dbe639f69930038ca43d3" />
-</picture>
-<picture> <!-- Gist-2 -->
-  <!-- Dark Mode -->
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/gist?id=abefc4c97287c6d91a3ea113de03d739&theme=radical&hide_border=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <!-- Light Mode -->
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/gist?id=abefc4c97287c6d91a3ea113de03d739&theme=shadow_green"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img alt="gist on tech number" src="(https://gist.github.com/dampdigits/abefc4c97287c6d91a3ea113de03d739" />
-</picture>
 
 <!-- Activity Graph -->
 <!-- Dark Mode -->
-[![Sameer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dampdigits&theme=redical&hide_border=true#gh-dark-mode-only)](https://github.com/ashutosh00710/github-readme-activity-graph#gh-dark-mode-only)
+[![Sameer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dampdigits&theme=redical&hide_border=true#gh-dark-mode-only)](https://github.com/dampdigits#gh-dark-mode-only)
 <!-- Light Mode -->
-[![Sameer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dampdigits&theme=github-light#gh-light-mode-only)](https://github.com/ashutosh00710/github-readme-activity-graph#gh-light-mode-only)
+[![Sameer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dampdigits&theme=github-light#gh-light-mode-only)](https://github.com/dampdigits#gh-light-mode-only)
 
 <!-- Holopin Badges -->
 ## Holopin Badges 🎖️📛🏷️
 
 [![An image of @dampdigits's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dampdigits)](https://holopin.io/@dampdigits)
+
+<!--Gists-->
+## Github Gists 📜
+<!-- Gist-1 -->
+<!-- Dark Mode -->
+<a href="https://gist.github.com/dampdigits/a1fbcf15c46dbe639f69930038ca43d3#gh-dark-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api/gist?id=a1fbcf15c46dbe639f69930038ca43d3&theme=radical&hide_border=true#gh-dark-mode-only" />
+</a>
+<!-- Light Mode -->
+<a href="https://gist.github.com/dampdigits/a1fbcf15c46dbe639f69930038ca43d3#gh-light-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api/gist?id=a1fbcf15c46dbe639f69930038ca43d3&theme=shadow_green&hide_border=true#gh-light-mode-only" />
+</a>
+<!-- Gist-2 -->
+<!-- Dark Mode -->
+<a href="https://gist.github.com/dampdigits/abefc4c97287c6d91a3ea113de03d739#gh-dark-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api/gist?id=abefc4c97287c6d91a3ea113de03d739&theme=radical&hide_border=true" />
+</a>
+<!-- Light Mode -->
+<a href="https://gist.github.com/dampdigits/abefc4c97287c6d91a3ea113de03d739#gh-light-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api/gist?id=abefc4c97287c6d91a3ea113de03d739&theme=shadow_green" />
+</a>
