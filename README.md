@@ -9,21 +9,27 @@
   <img alt="banner" src="banners/dampdigitsDarkbg.jpg">
 </picture>
 
-<h1 align="left"><font color="#31DD18">$</font> whoami</h1>
-<p>Hello! 👋
-<br>I'm <b>Sameer</b>, a passionate software developer who believes that code is not just lines but a form of art. With a background in Computer Science and a love for design, I'm on a journey to blend the worlds of programming and art to create beautiful, functional masterpieces.</p>
+<!-- <h1 align="left"><font color="#31DD18">$</font> whoami</h1> -->
+<hr><br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=25&pause=4000&color=54F715&width=800&height=60&lines=%24+whoami)](https://git.io/typing-svg)
+<br>Hello! 👋 I'm <b>Sameer</b>, a passionate software developer who believes that code is not just lines but a form of art. With a background in Computer Science and a love for design, I'm on a journey to blend the worlds of programming and art to create beautiful, functional masterpieces.
+
+<br>
 
 ## About Me 🚀
+<br>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=25&pause=1000&color=9B4EF7&width=1000&lines=Full+Stack+Developer;Competitive+Programmer;Passionate+Python+Coder;Machine+Learning+Enthusiast;GNU-Linux+Ricer;Graphic+Designer+%26+Art+Lover;Programming%2C+Math+%26+Science+Tutor)](https://git.io/typing-svg)
 - 💻 Creates complete <b>web applications</b> that not only function seamlessly but also look stunning.
-- 🔍 Enjoys <b>solving logical problems</b> using programming as a tool for creative expression.
+- 🎯 Die-hard <b>Leetcoder</b>! Solves <b>DSA</b> problems daily and occasionally participates & wins online & onsite contests.
 - 🐧 A proud <b>GNU-Linux enthusiast</b>; <b>open source</b> is the way to go!
-- 🚀 Former <b>Marketing Lead</b> of <b>Google Developer Students Club</b> Brainware University.
-- 📱 Ex-Content Creator & Social Media Manager at Rethink School.
+- 📊 Former <b>Marketing Lead</b> of <b>Google Developer Students Club</b> Brainware University.
 - 🎓 Currently an undergraduate majoring in Computer Science
 - 🤖 Exploring <b>Artificial Intelligence</b> & <b>Machine Learning</b>.
 - 🎨 Passionate about art & designing, I've dabbled in creating <b>comics</b> and various <b>digital arts</b>.
 - 📚 Part-time <b>Computer Science tutor</b>, spreading the love for coding and problem-solving.
+<br>
 
 ## Philosophy 🌌
 
@@ -37,13 +43,23 @@ I firmly believe that everything is a form of art. Whether I'm crafting elegant 
 <a href="https://linkedin.com/in/dampdigits" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dampdigits" height="30" width="40" /></a>
 <a href="https://instagram.com/dampdigits" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dampdigits" height="30" width="40" /></a>
 </p> -->
+<br>
 
+<!-- Development Tools -->
 ## Dev Tools 🛠️
 
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="icons/Bash_Logo_Colored.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="icons/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="icons/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="icons/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/"> <picture> <source media="(prefers-color-scheme: dark)" width="40" height="40" srcset="icons/flask-removebg-preview.svg"> <source media="(prefers-color-scheme: light)" width="40" height="40" srcset="icons/flsk-removebg-preview.svg"> <img alt="flask" width="40" height="40" src="icons/flask-removebg-preview.svg"></picture> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="icons/Bash_Logo_Colored.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="icons/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="icons/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="icons/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/"> <picture> <source media="(prefers-color-scheme: dark)" width="40" height="40" srcset="icons/flask-removebg-preview.svg"> <source media="(prefers-color-scheme: light)" width="40" height="40" srcset="icons/flsk-removebg-preview.svg"> <img alt="flask" width="40" height="40" src="icons/flask-removebg-preview.svg"></picture> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+
+<br>
+
+<!-- Leetcode Stats -->
+## Leetcode stats ⚡
+![LeetCode Stats](https://leetcard.jacoblin.cool/dampdigits?theme=radical&font=Fira%20Mono&ext=heatmap)
+
+<br>
 
 <!-- Github Stats -->
-## Github stats 📊📈
+## Github stats 📈
 <!-- Dark Mode -->
 <a href="https://github.com/dampdigits#gh-dark-mode-only">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dampdigits&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,issues,contribs&rank_icon=github&show_icons=true&hide=reviews,discussions_answered,prs,prs_merged&theme=radical&hide_border=true#gh-dark-mode-only" />
