@@ -20,14 +20,14 @@
 ## About Me 🚀
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=25&pause=1000&color=9B4EF7&width=1000&lines=Full+Stack+Developer;Competitive+Programmer;Passionate+Python+Coder;Machine+Learning+Enthusiast;GNU-Linux+Ricer;Graphic+Designer+%26+Art+Lover;Programming%2C+Math+%26+Science+Tutor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=25&pause=1000&color=9B4EF7&width=1000&lines=Full+Stack+Developer;UI/UX+Designer;Competitive+Programmer;Passionate+Python+Coder;Machine+Learning+Enthusiast;GNU-Linux+Ricer;Graphic+Designer+%26+Art+Lover;Programming%2C+Math+%26+Science+Tutor)](https://git.io/typing-svg)
 - 💻 Creates complete <b>web applications</b> that not only function seamlessly but also look stunning.
+- 🎨 Passionate about art & designing, I create UI/UX designs but I've also dabbled in creating <b>comics</b> and various <b>digital arts</b>.
 - 🎯 Die-hard <b>Leetcoder</b>! Solves <b>DSA</b> problems daily and occasionally participates & wins online & onsite contests.
 - 🐧 A proud <b>GNU-Linux enthusiast</b>; <b>open source</b> is the way to go!
 - 📊 Former <b>Marketing Lead</b> of <b>Google Developer Students Club</b> Brainware University.
 - 🎓 Currently an undergraduate majoring in Computer Science
 - 🤖 Exploring <b>Artificial Intelligence</b> & <b>Machine Learning</b>.
-- 🎨 Passionate about art & designing, I've dabbled in creating <b>comics</b> and various <b>digital arts</b>.
 - 📚 Part-time <b>Computer Science tutor</b>, spreading the love for coding and problem-solving.
 <br>
 
