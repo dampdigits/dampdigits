@@ -22,7 +22,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=25&pause=1000&color=9B4EF7&width=1000&lines=Full+Stack+Developer;UI/UX+Designer;Competitive+Programmer;Passionate+Python+Coder;Machine+Learning+Enthusiast;GNU-Linux+Ricer;Graphic+Designer+%26+Art+Lover;Programming%2C+Math+%26+Science+Tutor)](https://git.io/typing-svg)
 - 💻 Creates complete <b>web applications</b> that not only function seamlessly but also look stunning.
-- 🎨 Passionate about art & designing, I create UI/UX designs but I've also dabbled in creating <b>comics</b> and various <b>digital arts</b>.
+- 🎨 Passionate about art & design, I create <b>UI/UX designs</b> but I've also dabbled in creating <b>comics</b> and various <b>digital arts</b>.
 - 🎯 Die-hard <b>Leetcoder</b>! Solves <b>DSA</b> problems daily and occasionally participates & wins online & onsite contests.
 - 🐧 A proud <b>GNU-Linux enthusiast</b>; <b>open source</b> is the way to go!
 - 📊 Former <b>Marketing Lead</b> of <b>Google Developer Students Club</b> Brainware University.
