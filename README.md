@@ -50,7 +50,8 @@ I firmly believe that everything is a form of art. Whether I'm crafting elegant 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,py,lua,bash,powershell,nodejs,react,django,flask,tailwind,bootstrap,mongodb,mysql,sqlite,postgres,git,md,html,css,sass,npm,pnpm,yarn,postman,vercel,gcp,figma,neovim,vscode,visualstudio,linux,arch,debian,ubuntu,nix" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,py,lua,bash,powershell,nodejs,react,django,flask,tailwind,bootstrap,mongodb,mysql,sqlite,postgres,git,md,html,css,sass,npm,pnpm,yarn,postman,vercel,gcp" />
+    <img src="https://skillicons.dev/icons?i=figma,neovim,vscode,visualstudio,linux,arch,debian,ubuntu,nix">
   </a>
 </p>
 <br>
