@@ -13,7 +13,7 @@
 <hr><br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=25&pause=4000&color=54F715&width=800&height=60&lines=%24+whoami)](https://git.io/typing-svg)
-<br>Hello! 👋 I'm <b>Sameer</b>, a passionate Full Stack Developer, UI/UX Designer, & a Competitive Programmer who believes that code is not just lines but a form of art. With a background in Computer Science and a love for design, I'm on a journey to blend the worlds of programming and art to create beautiful, functional masterpieces that solve real world problems.
+<br>Hello! 👋 I'm <b>Sameer</b>, a passionate <b>Full Stack Developer</b>, <b>UI/UX Designer</b>, & a <b>Competitive Programmer</b> who believes that code is not just lines but a form of art. With a background in Computer Science and a love for design, I'm on a journey to blend the worlds of programming and art to create beautiful, functional masterpieces that solve real world problems.
 
 <br>
 
