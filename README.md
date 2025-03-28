@@ -9,7 +9,7 @@
   <img alt="banner" src="banners/dampdigitsDarkbg.jpg">
 </picture>
 
-<!-- <h1 align="left"><font color="#31DD18">$</font> whoami</h1> -->
+<!-- <h1 align="left"><font color="#14A300">$</font> whoami</h1> -->
 <hr><br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=25&pause=4000&color=54F715&width=800&height=60&lines=%24+whoami)](https://git.io/typing-svg)
@@ -47,55 +47,74 @@ I firmly believe that everything is a form of art. Whether I'm crafting elegant 
 
 <!-- Development Tools -->
 ## Dev Tools 🛠️
-
-<p align="center">
-  <a href="https://skillicons.dev">
+<!-- Dark Mode -->
+<a href="https://github.com/dampdigits#gh-dark-mode-only">
+  <section align="center">
     <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,py,lua,bash,powershell,nodejs,react,django,flask,tailwind,bootstrap,mongodb,mysql,sqlite,postgres,git,md,html,css,sass,npm,pnpm,yarn,postman,vercel,gcp" />
     <img src="https://skillicons.dev/icons?i=figma,neovim,vscode,visualstudio,linux,arch,debian,ubuntu,nix">
-  </a>
-</p>
+  </section>
+</a>
+<!-- Light Mode -->
+<a href="https://github.com/dampdigits#gh-light-mode-only">
+  <section align="center">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,py,lua,bash,powershell,nodejs,react,django,flask,tailwind,bootstrap,mongodb,mysql,sqlite,postgres,git,md,html,css,sass,npm,pnpm,yarn,postman,vercel,gcp&theme=light" />
+    <img src="https://skillicons.dev/icons?i=figma,neovim,vscode,visualstudio,linux,arch,debian,ubuntu,nix&theme=light">
+  </section>
+</a>
 <br>
 
 <!-- Leetcode Stats -->
 ## Leetcode stats ⚡
-![LeetCode Stats](https://leetcard.jacoblin.cool/dampdigits?theme=radical&font=Fira%20Mono&ext=heatmap)
+<!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/dampdigits?theme=radical&font=Fira%20Mono&ext=heatmap) -->
+<p align="center">
+  <!-- Dark Mode -->
+  <a href="https://github.com/dampdigits#gh-dark-mode-only">
+    <img src="https://leetcard.jacoblin.cool/dampdigits?theme=radical&font=Fira%20Mono&ext=heatmap"/>
+  </a>
+  <!-- Light Mode -->
+  <a href="https://github.com/dampdigits#gh-light-mode-only">
+    <img src="https://leetcard.jacoblin.cool/dampdigits?theme=light&font=Fira%20Mono&ext=heatmap"/>
+  </a>
+</p>
 
 <br>
 
 <!-- Github Stats -->
 ## Github stats 📈
-<!-- Dark Mode -->
-<a href="https://github.com/dampdigits#gh-dark-mode-only">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dampdigits&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,issues,contribs&rank_icon=github&show_icons=true&hide=reviews,discussions_answered,prs,prs_merged&theme=radical&hide_border=true#gh-dark-mode-only" />
-</a>
-<!-- Light Mode -->
-<a href="https://github.com/dampdigits#gh-light-mode-only">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dampdigits&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,issues,contribs&rank_icon=github&show_icons=true&hide=reviews,discussions_answered,prs,prs_merged&theme=shadow_green#gh-light-mode-only" />
-</a>
-<!-- Most used languages -->
-<!-- Dark Mode -->
-<a href="https://github.com/dampdigits#gh-dark-mode-only">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dampdigits&layout=compact&langs_count=20&size_weight=0.4&theme=radical&hide_border=true&card_width=404#gh-dark-mode-only" />
-</a>
-<!-- Light Mode -->
-<a href="https://github.com/dampdigits#gh-light-mode-only">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dampdigits&layout=compact&langs_count=20&size_weight=0.4&theme=shadow_green&card_width=404#gh-light-mode-only" />
-</a>
-
-<!-- Github streak -->
-<picture>
+<p align="center">
   <!-- Dark Mode -->
-  <source
-    srcset="https://streak-stats.demolab.com?user=dampdigits&theme=radical&card_width=804&hide_border=true"
-    media="(prefers-color-scheme: dark)"
-  />
+  <a href="https://github.com/dampdigits#gh-dark-mode-only">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dampdigits&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,issues,contribs&rank_icon=github&show_icons=true&hide=reviews,discussions_answered,prs,prs_merged&theme=radical&hide_border=true#gh-dark-mode-only" />
+  </a>
   <!-- Light Mode -->
-  <source
-    srcset="https://streak-stats.demolab.com?user=dampdigits&theme=shadow_green&card_width=804"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img alt="GitHub Streak" src="https://github.com/dampdigits" />
-</picture>
+  <a href="https://github.com/dampdigits#gh-light-mode-only">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dampdigits&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,issues,contribs&rank_icon=github&show_icons=true&hide=reviews,discussions_answered,prs,prs_merged&theme=shadow_green#gh-light-mode-only" />
+  </a>
+  <!-- Most used languages -->
+  <!-- Dark Mode -->
+  <a href="https://github.com/dampdigits#gh-dark-mode-only">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dampdigits&layout=compact&langs_count=20&size_weight=0.4&theme=radical&hide_border=true&card_width=404#gh-dark-mode-only" />
+  </a>
+  <!-- Light Mode -->
+  <a href="https://github.com/dampdigits#gh-light-mode-only">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dampdigits&layout=compact&langs_count=20&size_weight=0.4&theme=shadow_green&card_width=404#gh-light-mode-only" />
+  </a>
+  
+  <!-- Github streak -->
+  <picture>
+    <!-- Dark Mode -->
+    <source
+      srcset="https://streak-stats.demolab.com?user=dampdigits&theme=radical&card_width=804&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <!-- Light Mode -->
+    <source
+      srcset="https://streak-stats.demolab.com?user=dampdigits&theme=shadow_green&card_width=804"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img alt="GitHub Streak" src="https://github.com/dampdigits" />
+  </picture>
+</p>
 
 <!-- Activity Graph -->
 <!-- Dark Mode -->
