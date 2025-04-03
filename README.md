@@ -13,7 +13,7 @@
 <hr><br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=25&pause=4000&color=54F715&width=800&height=60&lines=%24+whoami)](https://git.io/typing-svg)
-<br>Hello! 👋 I'm <b>Sameer</b>, a passionate <b>Full Stack Developer</b>, <b>UI/UX Designer</b>, & a <b>Competitive Programmer</b> who believes that code is not just lines but a form of art. With a background in Computer Science and a love for design, I'm on a journey to blend the worlds of programming and art to create beautiful, functional masterpieces that solve real world problems.
+<br>Hello! 👋 I'm <b>Sameer</b>, a passionate <b>Full Stack Developer</b>, <b>UI/UX Designer</b> & a <b>Competitive Programmer</b> (I literally grind leetcode for breakfast). I have participated in some prestigious events like <b>ICPC India</b>, <b>SIH</b> (to only name a few but not limited to), and won multiple Hackathons & CP tournaments. With a background in Computer Science, knack for problem-solving and a love for design, I'm on a journey to blend the worlds of programming and art to create beautiful, functional masterpieces that solve real world problems.
 
 <br>
 
@@ -31,9 +31,9 @@
 - 📚 Part-time <b>Computer Science tutor</b>, spreading the love for coding and problem-solving.
 <br>
 
-## Philosophy 🌌
+<!-- ## Philosophy 🌌 -->
 
-I firmly believe that everything is a form of art. Whether I'm crafting elegant code or bringing a design to life, I do it with the passion to create something beautiful.
+<!-- I firmly believe that everything is a form of art. Whether I'm crafting elegant code or bringing a design to life, I do it with the passion to create something beautiful. -->
 
 <!-- Check out my [Resume](https://drive.google.com/file/d/18-eDZDkWU2K5MACsNIjCSkjKmOG6o4Ca/view?usp=drive_link) -->
 
