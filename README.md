@@ -50,15 +50,15 @@
 <!-- Dark Mode -->
 <a href="https://github.com/dampdigits#gh-dark-mode-only">
   <section align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,py,lua,nix,bash,nodejs,react,django,flask,tailwind,bootstrap,mongodb,mysql,sqlite,postgres,git,md,html,css,sass,npm,pnpm,yarn,postman,vercel,cloudflare" />
-    <img src="https://skillicons.dev/icons?i=figma,neovim,vim,vscode,visualstudio,linux,arch,debian,ubuntu">
+    <img src="https://skillicons.dev/icons?i=bash,c,cpp,java,js,lua,nix,py,ts,django,flask,nodejs,react,bootstrap,tailwind,mongodb,mysql,postgres,sqlite,html,css,sass,git,gitlab,cloudflare,docker,postman,vercel,figma,notion" />
+    <img src="https://skillicons.dev/icons?i=neovim,vim,vscode,visualstudio,linux,arch,debian,ubuntu">
   </section>
 </a>
 <!-- Light Mode -->
 <a href="https://github.com/dampdigits#gh-light-mode-only">
   <section align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,py,lua,nix,bash,nodejs,react,django,flask,tailwind,bootstrap,mongodb,mysql,sqlite,postgres,git,md,html,css,sass,npm,pnpm,yarn,postman,vercel,cloudflare&theme=light" />
-    <img src="https://skillicons.dev/icons?i=figma,neovim,vim,vscode,visualstudio,linux,arch,debian,ubuntu&theme=light">
+    <img src="https://skillicons.dev/icons?i=bash,c,cpp,java,js,lua,nix,py,ts,django,flask,nodejs,react,bootstrap,tailwind,mongodb,mysql,postgres,sqlite,html,css,sass,git,gitlab,cloudflare,docker,postman,vercel,figma,notion&theme=light" />
+    <img src="https://skillicons.dev/icons?i=neovim,vim,vscode,visualstudio,linux,arch,debian,ubuntu&theme=light">
   </section>
 </a>
 <br>
