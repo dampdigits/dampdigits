@@ -84,20 +84,20 @@
 <p align="center">
   <!-- Dark Mode -->
   <a href="https://github.com/dampdigits#gh-dark-mode-only">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dampdigits&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,issues,contribs&rank_icon=github&show_icons=true&hide=reviews,discussions_answered,prs,prs_merged&theme=radical&hide_border=true#gh-dark-mode-only" />
+    <img height=200 align="center" src="https://github-stats-extended.vercel.app/api?username=dampdigits&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,issues,contribs&rank_icon=github&show_icons=true&hide=reviews,discussions_answered,prs,prs_merged&theme=radical&hide_border=true#gh-dark-mode-only" />
   </a>
   <!-- Light Mode -->
   <a href="https://github.com/dampdigits#gh-light-mode-only">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dampdigits&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,issues,contribs&rank_icon=github&show_icons=true&hide=reviews,discussions_answered,prs,prs_merged&theme=shadow_green#gh-light-mode-only" />
+    <img height=200 align="center" src="https://github-stats-extended.vercel.app/api?username=dampdigits&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,issues,contribs&rank_icon=github&show_icons=true&hide=reviews,discussions_answered,prs,prs_merged&theme=shadow_green#gh-light-mode-only" />
   </a>
   <!-- Most used languages -->
   <!-- Dark Mode -->
   <a href="https://github.com/dampdigits#gh-dark-mode-only">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dampdigits&layout=compact&langs_count=20&size_weight=0.4&theme=radical&hide_border=true&card_width=404#gh-dark-mode-only" />
+    <img height=200 align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=dampdigits&layout=compact&langs_count=20&size_weight=0.4&theme=radical&hide_border=true&card_width=404#gh-dark-mode-only" />
   </a>
   <!-- Light Mode -->
   <a href="https://github.com/dampdigits#gh-light-mode-only">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dampdigits&layout=compact&langs_count=20&size_weight=0.4&theme=shadow_green&card_width=404#gh-light-mode-only" />
+    <img height=200 align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=dampdigits&layout=compact&langs_count=20&size_weight=0.4&theme=shadow_green&card_width=404#gh-light-mode-only" />
   </a>
   
   <!-- Github streak -->
@@ -118,9 +118,9 @@
 
 <!-- Activity Graph -->
 <!-- Dark Mode -->
-[![Sameer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dampdigits&theme=redical&hide_border=true#gh-dark-mode-only)](https://github.com/dampdigits#gh-dark-mode-only)
+[![Sameer's github activity graph](https://github-act-graph.rodriaum.com/graph?username=dampdigits&theme=redical&hide_border=true#gh-dark-mode-only)](https://github.com/dampdigits#gh-dark-mode-only)
 <!-- Light Mode -->
-[![Sameer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dampdigits&theme=github-light#gh-light-mode-only)](https://github.com/dampdigits#gh-light-mode-only)
+[![Sameer's github activity graph](https://github-act-graph.rodriaum.com/graph?username=dampdigits&theme=github-light#gh-light-mode-only)](https://github.com/dampdigits#gh-light-mode-only)
 
 <!-- Holopin Badges -->
 ## Holopin Badges 🎖️📛🏷️
@@ -132,18 +132,18 @@
 <!-- Gist-1 -->
 <!-- Dark Mode -->
 <!-- <a href="https://gist.github.com/dampdigits/a1fbcf15c46dbe639f69930038ca43d3#gh-dark-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/gist?id=a1fbcf15c46dbe639f69930038ca43d3&theme=radical&hide_border=true#gh-dark-mode-only" />
+  <img src="https://github-stats-extended.vercel.app/api/gist?id=a1fbcf15c46dbe639f69930038ca43d3&theme=radical&hide_border=true#gh-dark-mode-only" />
 </a> -->
 <!-- Light Mode -->
 <!-- <a href="https://gist.github.com/dampdigits/a1fbcf15c46dbe639f69930038ca43d3#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/gist?id=a1fbcf15c46dbe639f69930038ca43d3&theme=shadow_green#gh-light-mode-only" />
+  <img src="https://github-stats-extended.vercel.app/api/gist?id=a1fbcf15c46dbe639f69930038ca43d3&theme=shadow_green#gh-light-mode-only" />
 </a> -->
 <!-- Gist-2 -->
 <!-- Dark Mode -->
 <!-- <a href="https://gist.github.com/dampdigits/abefc4c97287c6d91a3ea113de03d739#gh-dark-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/gist?id=abefc4c97287c6d91a3ea113de03d739&theme=radical&hide_border=true" />
+  <img src="https://github-stats-extended.vercel.app/api/gist?id=abefc4c97287c6d91a3ea113de03d739&theme=radical&hide_border=true" />
 </a> -->
 <!-- Light Mode -->
 <!-- <a href="https://gist.github.com/dampdigits/abefc4c97287c6d91a3ea113de03d739#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/gist?id=abefc4c97287c6d91a3ea113de03d739&theme=shadow_green" />
+  <img src="https://github-stats-extended.vercel.app/api/gist?id=abefc4c97287c6d91a3ea113de03d739&theme=shadow_green" />
 </a> -->
