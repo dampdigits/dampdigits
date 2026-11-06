@@ -1,16 +1,16 @@
 <!-- Profile views -->
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sksameersalam&label=Profile%20views&color=0e75b6&style=flat" alt="dampdigits" /> </p> -->
 <!-- Banner -->
-<picture>
+<!-- <picture> -->
   <!-- dark theme -->
-  <source media="(prefers-color-scheme: dark)" srcset="banners/dampdigitsDarknobg.png">
+  <!-- <source media="(prefers-color-scheme: dark)" srcset="banners/dampdigitsDarknobg.png"> -->
   <!-- light theme -->
-  <source media="(prefers-color-scheme: light)" srcset="banners/dampdigitsWhitebg.jpg">
-  <img alt="banner" src="banners/dampdigitsDarkbg.jpg">
-</picture>
+  <!-- <source media="(prefers-color-scheme: light)" srcset="banners/dampdigitsWhitebg.jpg"> -->
+  <!-- <img alt="banner" src="banners/dampdigitsDarkbg.jpg"> -->
+<!-- </picture> -->
 
 <!-- <h1 align="left"><font color="#14A300">$</font> whoami</h1> -->
-<hr><br>
+<!-- <hr><br> -->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=25&pause=4000&color=54F715&width=800&height=60&lines=%24+whoami)](https://git.io/typing-svg)
 <br>Hello! 👋 I'm <b>Sameer</b>, a passionate <b>Full Stack Developer</b>, <b>UI/UX Designer</b> & a <b>Competitive Programmer</b> (I literally grind leetcode for breakfast). I have participated in some prestigious events like <b>ICPC India</b>, <b>SIH</b> (to only name a few but not limited to), and won multiple Hackathons & CP tournaments. With a background in Computer Science, knack for problem-solving and a love for design, I'm on a journey to blend the worlds of programming and art to create beautiful, functional masterpieces that solve real world problems.
